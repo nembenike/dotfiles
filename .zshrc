@@ -16,6 +16,11 @@ export PATH=$PATH:/home/benike/.local/bin
 alias neofetch="fastfetch --logo-width 40 -l Downloads/gentoo-signet.png"
 alias fastfetch="fastfetch --logo-width 40 -l Downloads/gentoo-signet.png"
 
+# Custom android whatever
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
