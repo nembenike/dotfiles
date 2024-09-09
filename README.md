@@ -9,6 +9,8 @@
 - [tmux](https://github.com/tmux/tmux)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [fd](https://github.com/sharkdp/fd)
+- [fzf](https://github.com/junegunn/fzf)
+- [Any nerd font](https://www.nerdfonts.com/)
 
 ## Install
 ```sh
