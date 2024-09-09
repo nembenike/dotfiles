@@ -10,6 +10,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [fd](https://github.com/sharkdp/fd)
 - [fzf](https://github.com/junegunn/fzf)
+- [tpm](https://github.com/tmux-plugins/tpm)
 - [Any nerd font](https://www.nerdfonts.com/)
 
 ## Install
