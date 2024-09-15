@@ -12,9 +12,10 @@ ZSH_THEME="half-life"
 
 source <(fzf --zsh)
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+
 export PATH=$PATH:/home/benike/.local/bin
-alias neofetch="fastfetch --logo-width 40 -l Downloads/gentoo-signet.png"
-alias fastfetch="fastfetch --logo-width 40 -l Downloads/gentoo-signet.png"
 
 # Custom android whatever
 export ANDROID_HOME=$HOME/Android/Sdk
